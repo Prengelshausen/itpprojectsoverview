@@ -1,0 +1,1162 @@
+[
+    {
+        "year": 2018,
+        "grade": "3AHIT",
+        "criteria": [
+            {
+                "id": 12,
+                "short": "IN",
+                "long": "Interessant",
+                "weight": 80
+            },
+            {
+                "id": 32,
+                "short": "KO",
+                "long": "Kompliziert",
+                "weight": 20
+            },
+            {
+                "id": 37,
+                "short": "TE",
+                "long": "Technisch",
+                "weight": 50
+            },
+            {
+                "id": 25,
+                "short": "VO",
+                "long": "Vortrag",
+                "weight": 15
+            },
+            {
+                "id": 32,
+                "short": "UM",
+                "long": "Umsetzung",
+                "weight": 40
+            },
+            {
+                "id": 43,
+                "short": "MI",
+                "long": "Mitarbeit",
+                "weight": 20
+            },
+            {
+                "id": 41,
+                "short": "KS",
+                "long": "Kosten",
+                "weight": 10
+            }
+        ],
+        "judges": [
+            {
+                "short": "WA",
+                "long": "Prof. Abadall",
+                "since": 2016
+            },
+            {
+                "short": "TA",
+                "long": "Prof. Angerer",
+                "since": 2008
+            },
+            {
+                "short": "RB",
+                "long": "Prof. Baumgartner",
+                "since": 2003
+            },
+            {
+                "short": "TP",
+                "long": "Prof. Psik",
+                "since": 2018
+            },
+            {
+                "short": "MS",
+                "long": "Prof. Suppan",
+                "since": 2014
+            },
+            {
+                "short": "RW",
+                "long": "Prof. Wurzer",
+                "since": 2012
+            }
+        ],
+        "projects": [
+            {
+                "title": "Rollen Schloss",
+                "points": [
+                    25,
+                    26,
+                    48,
+                    37,
+                    46,
+                    42
+                ],
+                "icon": "ic_account_balance_black_48dp",
+                "description": "Quis in laborum irure Lorem consequat officia sunt esse labore. Dolor non culpa aliquip sit dolore culpa irure veniam mollit quis. Lorem adipisicing amet minim aliqua consequat anim in sint sunt. Officia laboris deserunt non quis aliquip.",
+                "membersNames": [
+                    {
+                        "vorname": "Dominik",
+                        "nachname": "Sezer"
+                    },
+                    {
+                        "vorname": "Manuel",
+                        "nachname": "Osmanoski"
+                    },
+                    {
+                        "vorname": "Marcus",
+                        "nachname": "Firzinger"
+                    }
+                ],
+                "projId": "20183AHIT0"
+            },
+            {
+                "title": "Creative Desk",
+                "points": [
+                    37,
+                    31,
+                    28,
+                    17,
+                    43,
+                    35
+                ],
+                "icon": "ic_subtitles_black_48dp",
+                "description": "In enim ad irure nulla esse velit labore voluptate proident magna proident fugiat. Ullamco velit ipsum eiusmod. Quis dolor veniam minim et commodo nisi officia aliquip ullamco do cupidatat eu incididunt.",
+                "membersNames": [
+                    {
+                        "vorname": "Matthias",
+                        "nachname": "Marceta"
+                    },
+                    {
+                        "vorname": "Livio",
+                        "nachname": "Koc"
+                    },
+                    {
+                        "vorname": "Cihan",
+                        "nachname": "Müllner"
+                    }
+                ],
+                "projId": "20183AHIT1"
+            },
+            {
+                "title": "Raindrop",
+                "points": [
+                    10,
+                    23,
+                    30,
+                    14,
+                    26,
+                    9
+                ],
+                "icon": "ic_opacity_black_48dp",
+                "description": "Proident laboris ex ut adipisicing consequat laboris voluptate in ad ullamco voluptate. Laboris anim tempor aute. In et adipisicing officia eu ut velit. Ipsum occaecat anim eiusmod ullamco ut Lorem non do ex. Est nulla fugiat veniam cupidatat sunt.",
+                "membersNames": [
+                    {
+                        "vorname": "Lijo",
+                        "nachname": "Kaczmarczyk"
+                    },
+                    {
+                        "vorname": "Andjela",
+                        "nachname": "Antonic"
+                    },
+                    {
+                        "vorname": "Muhammed",
+                        "nachname": "Wimmer"
+                    }
+                ],
+                "projId": "20183AHIT2"
+            },
+            {
+                "title": "Geldbörse",
+                "points": [
+                    9,
+                    45,
+                    7,
+                    34,
+                    7,
+                    11
+                ],
+                "icon": "ic_monetization_on_black_48dp",
+                "description": "Magna anim cupidatat voluptate et sunt exercitation. Enim nulla ad dolore nostrud officia minim minim occaecat reprehenderit labore amet nostrud eiusmod ullamco tempor. Nisi Lorem proident dolore anim. Dolor ad irure laborum consectetur ex eiusmod.",
+                "membersNames": [
+                    {
+                        "vorname": "Bojan",
+                        "nachname": "Hassan"
+                    },
+                    {
+                        "vorname": "Manuel",
+                        "nachname": "Kareem"
+                    },
+                    {
+                        "vorname": "Lijo",
+                        "nachname": "Ece"
+                    }
+                ],
+                "projId": "20183AHIT3"
+            },
+            {
+                "title": "RHM",
+                "points": [
+                    15,
+                    27,
+                    29,
+                    23,
+                    8,
+                    21
+                ],
+                "icon": "ic_pages_black_48dp",
+                "description": "Eiusmod ullamco fugiat pariatur aliquip nisi ad dolor cillum ex eu nostrud consequat laboris culpa. Ea ullamco officia duis reprehenderit laboris Lorem ullamco mollit adipisicing veniam duis enim commodo fugiat ipsum. Laborum officia adipisicing sit exercitation proident do id eiusmod aliquip veniam labore laboris aliquip. Nisi mollit occaecat id nulla aliqua consequat laboris irure in exercitation. Commodo anim exercitation in enim.",
+                "membersNames": [
+                    {
+                        "vorname": "Markus",
+                        "nachname": "Moser"
+                    },
+                    {
+                        "vorname": "David",
+                        "nachname": "Gruber"
+                    }
+                ],
+                "projId": "20183AHIT4"
+            },
+            {
+                "title": "J-Hat",
+                "points": [
+                    17,
+                    42,
+                    18,
+                    33,
+                    17,
+                    19
+                ],
+                "icon": "ic_border_clear_black_48dp",
+                "description": "Ipsum mollit laborum ullamco ad proident ipsum deserunt ea. Minim veniam ad anim est eu nisi voluptate in. Nisi dolore aliqua elit aliqua nisi aute ex proident et tempor irure officia ut.",
+                "membersNames": [
+                    {
+                        "vorname": "Daniel",
+                        "nachname": "Adam"
+                    },
+                    {
+                        "vorname": "Alexandr",
+                        "nachname": "Leißer"
+                    },
+                    {
+                        "vorname": "Joseph Michael",
+                        "nachname": "Sengee"
+                    }
+                ],
+                "projId": "20183AHIT5"
+            },
+            {
+                "title": "Besteckhacken",
+                "points": [
+                    14,
+                    14,
+                    46,
+                    44,
+                    21,
+                    49
+                ],
+                "icon": "ic_border_horizontal_black_48dp",
+                "description": "Dolore velit excepteur cillum aliquip enim labore dolor non Lorem non est aute. Labore aute est Lorem minim dolor. Excepteur amet amet pariatur cupidatat.",
+                "membersNames": [
+                    {
+                        "vorname": "Veysel",
+                        "nachname": "Rostok"
+                    },
+                    {
+                        "vorname": "Mehmet-Emre",
+                        "nachname": "Milosavljevic"
+                    }
+                ],
+                "projId": "20183AHIT6"
+            },
+            {
+                "title": "Beer Case",
+                "points": [
+                    6,
+                    44,
+                    24,
+                    35,
+                    14,
+                    46
+                ],
+                "icon": "ic_domain_black_48dp",
+                "description": "Officia nulla elit exercitation dolore fugiat occaecat exercitation excepteur id occaecat cillum labore laborum. Minim veniam eiusmod magna qui cupidatat cupidatat excepteur adipisicing sunt. Reprehenderit duis laboris excepteur nostrud quis fugiat ad duis laborum duis voluptate qui. In laborum veniam ex consectetur deserunt dolor minim minim irure ullamco pariatur.",
+                "membersNames": [
+                    {
+                        "vorname": "Ebrahim Ali",
+                        "nachname": "Juric"
+                    },
+                    {
+                        "vorname": "Patrick",
+                        "nachname": "Ercan"
+                    },
+                    {
+                        "vorname": "Kingsley",
+                        "nachname": "Maric"
+                    }
+                ],
+                "projId": "20183AHIT7"
+            },
+            {
+                "title": "Table Soccer",
+                "points": [
+                    10,
+                    47,
+                    26,
+                    18,
+                    36,
+                    22
+                ],
+                "icon": "ic_videogame_asset_black_48dp",
+                "description": "Magna pariatur et veniam enim non sit pariatur velit duis ullamco tempor. Qui irure incididunt ea duis sint ad eu ut. Magna voluptate occaecat adipisicing ex veniam Lorem. Sit fugiat aliqua ea ipsum pariatur elit ut cillum incididunt enim exercitation fugiat. In excepteur non do dolore sit exercitation ex id velit.",
+                "membersNames": [
+                    {
+                        "vorname": "Miso",
+                        "nachname": "Subr"
+                    },
+                    {
+                        "vorname": "Alexander",
+                        "nachname": "Ghassemi"
+                    },
+                    {
+                        "vorname": "Dawoud",
+                        "nachname": "Alahmad"
+                    }
+                ],
+                "projId": "20183AHIT8"
+            },
+            {
+                "title": "Grill for Free",
+                "points": [
+                    14,
+                    29,
+                    31,
+                    7,
+                    35,
+                    29
+                ],
+                "icon": "ic_hot_tub_black_48dp",
+                "description": "Do minim ex minim amet amet. Quis nulla consectetur ullamco cillum proident duis labore. Exercitation eiusmod proident do id Lorem ex qui adipisicing. Pariatur ea ipsum ipsum aliquip veniam consequat veniam pariatur ipsum.",
+                "membersNames": [
+                    {
+                        "vorname": "Florian",
+                        "nachname": "Saran"
+                    },
+                    {
+                        "vorname": "Danil",
+                        "nachname": "Ayan"
+                    },
+                    {
+                        "vorname": "Patrick",
+                        "nachname": "Pichler"
+                    }
+                ],
+                "projId": "20183AHIT9"
+            },
+            {
+                "title": "Home Bird",
+                "points": [
+                    15,
+                    14,
+                    49,
+                    23,
+                    45,
+                    39
+                ],
+                "icon": "ic_settings_system_daydream_black_48dp",
+                "description": "Culpa fugiat incididunt Lorem tempor duis aute. Dolore commodo eu occaecat sit ipsum. Esse aliqua adipisicing non adipisicing qui dolor tempor in pariatur duis consequat adipisicing laboris qui non.",
+                "membersNames": [
+                    {
+                        "vorname": "Fabian",
+                        "nachname": "Richter"
+                    },
+                    {
+                        "vorname": "Alpay",
+                        "nachname": "Dominovic"
+                    }
+                ],
+                "projId": "20183AHIT10"
+            },
+            {
+                "title": "Techtree",
+                "points": [
+                    17,
+                    47,
+                    19,
+                    48,
+                    10,
+                    46
+                ],
+                "icon": "ic_usb_black_48dp",
+                "description": "Tempor cupidatat ut aliqua anim nulla eiusmod nostrud ea magna ad nostrud aute. Dolore excepteur consectetur incididunt nulla nulla culpa elit minim proident labore magna eu aliqua reprehenderit ad. Voluptate duis commodo mollit magna ad voluptate laborum esse do commodo ea officia cupidatat.",
+                "membersNames": [
+                    {
+                        "vorname": "Cihan",
+                        "nachname": "Romanic"
+                    },
+                    {
+                        "vorname": "Abdulsamed",
+                        "nachname": "Haab"
+                    }
+                ],
+                "projId": "20183AHIT11"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "grade": "3BHIT",
+        "criteria": [
+            {
+                "id": 32,
+                "short": "KO",
+                "long": "Kompliziert",
+                "weight": 20
+            },
+            {
+                "id": 37,
+                "short": "TE",
+                "long": "Technisch",
+                "weight": 50
+            },
+            {
+                "id": 28,
+                "short": "KU",
+                "long": "Künstlerisch",
+                "weight": 20
+            },
+            {
+                "id": 17,
+                "short": "IN",
+                "long": "Innovativ",
+                "weight": 90
+            },
+            {
+                "id": 32,
+                "short": "UM",
+                "long": "Umsetzung",
+                "weight": 40
+            },
+            {
+                "id": 80,
+                "short": "DO",
+                "long": "Dokumentation",
+                "weight": 35
+            },
+            {
+                "id": 43,
+                "short": "MI",
+                "long": "Mitarbeit",
+                "weight": 20
+            },
+            {
+                "id": 39,
+                "short": "GG",
+                "long": "Gruppengröße",
+                "weight": 42
+            }
+        ],
+        "judges": [
+            {
+                "short": "WA",
+                "long": "Prof. Abadall",
+                "since": 2016
+            },
+            {
+                "short": "TA",
+                "long": "Prof. Angerer",
+                "since": 2008
+            },
+            {
+                "short": "RB",
+                "long": "Prof. Baumgartner",
+                "since": 2003
+            },
+            {
+                "short": "TP",
+                "long": "Prof. Psik",
+                "since": 2018
+            },
+            {
+                "short": "MS",
+                "long": "Prof. Suppan",
+                "since": 2014
+            },
+            {
+                "short": "RW",
+                "long": "Prof. Wurzer",
+                "since": 2012
+            }
+        ],
+        "projects": [
+            {
+                "title": "Recycling Hocker",
+                "points": [
+                    42,
+                    6,
+                    37,
+                    29,
+                    43,
+                    38
+                ],
+                "icon": "ic_weekend_black_48dp",
+                "description": "Dolor aliquip adipisicing eiusmod. Reprehenderit elit commodo ullamco id tempor irure eu id. Quis qui sit minim magna cillum. Tempor sunt eu ipsum eu qui nulla laboris amet officia voluptate ullamco ut enim adipisicing. Esse et ipsum nostrud anim minim ad non.",
+                "membersNames": [
+                    {
+                        "vorname": "Ramis",
+                        "nachname": "Petrovitsch"
+                    },
+                    {
+                        "vorname": "Clemens",
+                        "nachname": "Alram"
+                    }
+                ],
+                "projId": "20183BHIT0"
+            },
+            {
+                "title": "Papierbrille",
+                "points": [
+                    22,
+                    5,
+                    32,
+                    19,
+                    20,
+                    18
+                ],
+                "icon": "ic_remove_red_eye_black_36dp",
+                "description": "Amet fugiat ex nostrud incididunt. Non proident ut dolore cillum tempor pariatur occaecat ea non. Ullamco nisi ut sit proident dolor excepteur ut et elit ea eiusmod. Officia deserunt dolore proident irure nulla esse veniam. Eiusmod et et in cillum.",
+                "membersNames": [
+                    {
+                        "vorname": "Tim",
+                        "nachname": "Ibragimov"
+                    },
+                    {
+                        "vorname": "Aren",
+                        "nachname": "Superov"
+                    },
+                    {
+                        "vorname": "Mustafa",
+                        "nachname": "Uslu"
+                    }
+                ],
+                "projId": "20183BHIT1"
+            },
+            {
+                "title": "Pipis Beauty Palace",
+                "points": [
+                    46,
+                    13,
+                    41,
+                    48,
+                    6,
+                    34
+                ],
+                "icon": "ic_sentiment_very_satisfied_black_48dp",
+                "description": "Velit deserunt commodo magna magna irure eiusmod et exercitation ad minim. Proident incididunt dolore velit consequat. Ad id culpa laboris consequat officia veniam labore mollit incididunt elit labore mollit dolor aliqua.",
+                "membersNames": [
+                    {
+                        "vorname": "Michael",
+                        "nachname": "Ruhsam"
+                    },
+                    {
+                        "vorname": "Jovan",
+                        "nachname": "Aksu"
+                    },
+                    {
+                        "vorname": "Philipp",
+                        "nachname": "Elfeky"
+                    }
+                ],
+                "projId": "20183BHIT2"
+            },
+            {
+                "title": "Wachmalkerzen",
+                "points": [
+                    45,
+                    49,
+                    39,
+                    14,
+                    23,
+                    8
+                ],
+                "icon": "ic_border_color_black_48dp",
+                "description": "Aliquip culpa consectetur aute amet in cupidatat id eu laborum irure. Aliqua exercitation proident voluptate aliqua consectetur in reprehenderit quis id laborum. Non non tempor sit quis enim aliqua. Irure occaecat occaecat aliqua do laborum ad do sunt ullamco excepteur adipisicing exercitation pariatur ullamco.",
+                "membersNames": [
+                    {
+                        "vorname": "Marko",
+                        "nachname": "Riedl"
+                    },
+                    {
+                        "vorname": "Aldin",
+                        "nachname": "Kordon"
+                    },
+                    {
+                        "vorname": "Berkan",
+                        "nachname": "Ahmed"
+                    }
+                ],
+                "projId": "20183BHIT3"
+            },
+            {
+                "title": "Lego PC",
+                "points": [
+                    20,
+                    38,
+                    11,
+                    33,
+                    24,
+                    10
+                ],
+                "icon": "ic_location_city_black_48dp",
+                "description": "Cillum voluptate nisi irure nulla velit minim id. Enim tempor consectetur nostrud eiusmod non qui minim nulla culpa mollit. Sit laboris sit veniam consectetur culpa consequat cupidatat est est. Tempor exercitation ea nulla consectetur excepteur amet dolore proident cillum ipsum nisi Lorem nostrud amet.",
+                "membersNames": [
+                    {
+                        "vorname": "Zakaria",
+                        "nachname": "Barbari"
+                    },
+                    {
+                        "vorname": "Kevin",
+                        "nachname": "Mitrovic"
+                    },
+                    {
+                        "vorname": "Volkan",
+                        "nachname": "Hossaini"
+                    }
+                ],
+                "projId": "20183BHIT4"
+            },
+            {
+                "title": "Terrarium",
+                "points": [
+                    33,
+                    14,
+                    19,
+                    36,
+                    49,
+                    30
+                ],
+                "icon": "ic_settings_system_daydream_black_48dp",
+                "description": "Adipisicing veniam aliqua tempor aute occaecat sit. Consequat laboris est minim ullamco velit tempor. Aliqua adipisicing elit consequat elit excepteur amet enim ipsum sunt consectetur.",
+                "membersNames": [
+                    {
+                        "vorname": "Kadir",
+                        "nachname": "Derouiche"
+                    },
+                    {
+                        "vorname": "Gerhard",
+                        "nachname": "Altiparmak"
+                    },
+                    {
+                        "vorname": "Tom",
+                        "nachname": "Chiu"
+                    }
+                ],
+                "projId": "20183BHIT5"
+            },
+            {
+                "title": "Plastikdach",
+                "points": [
+                    24,
+                    38,
+                    31,
+                    40,
+                    39,
+                    30
+                ],
+                "icon": "ic_beach_access_black_48dp",
+                "description": "Qui ea quis ut. Lorem velit minim ipsum mollit exercitation pariatur fugiat consectetur aute irure commodo exercitation nulla velit. Dolor enim deserunt minim non occaecat consectetur et. Do proident exercitation Lorem consectetur commodo ad. Ullamco esse do pariatur aute esse.",
+                "membersNames": [
+                    {
+                        "vorname": "Alexander",
+                        "nachname": "Bereuter"
+                    },
+                    {
+                        "vorname": "Seifullah",
+                        "nachname": "Pencs"
+                    },
+                    {
+                        "vorname": "Mina",
+                        "nachname": "Waledzik"
+                    }
+                ],
+                "projId": "20183BHIT6"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "grade": "3CHIT",
+        "criteria": [
+            {
+                "id": 12,
+                "short": "IN",
+                "long": "Interessant",
+                "weight": 80
+            },
+            {
+                "id": 42,
+                "short": "KP",
+                "long": "Komplex",
+                "weight": 10
+            },
+            {
+                "id": 37,
+                "short": "TE",
+                "long": "Technisch",
+                "weight": 50
+            },
+            {
+                "id": 32,
+                "short": "UM",
+                "long": "Umsetzung",
+                "weight": 40
+            },
+            {
+                "id": 80,
+                "short": "DO",
+                "long": "Dokumentation",
+                "weight": 35
+            },
+            {
+                "id": 13,
+                "short": "RE",
+                "long": "Relevant",
+                "weight": 60
+            },
+            {
+                "id": 39,
+                "short": "GG",
+                "long": "Gruppengröße",
+                "weight": 42
+            }
+        ],
+        "judges": [
+            {
+                "short": "WA",
+                "long": "Prof. Abadall",
+                "since": 2016
+            },
+            {
+                "short": "TA",
+                "long": "Prof. Angerer",
+                "since": 2008
+            },
+            {
+                "short": "RB",
+                "long": "Prof. Baumgartner",
+                "since": 2003
+            },
+            {
+                "short": "TP",
+                "long": "Prof. Psik",
+                "since": 2018
+            },
+            {
+                "short": "MS",
+                "long": "Prof. Suppan",
+                "since": 2014
+            },
+            {
+                "short": "RW",
+                "long": "Prof. Wurzer",
+                "since": 2012
+            }
+        ],
+        "projects": [
+            {
+                "title": "Buchsessel",
+                "points": [
+                    37,
+                    40,
+                    16,
+                    34,
+                    46,
+                    5
+                ],
+                "icon": "ic_weekend_black_48dp",
+                "description": "Aute deserunt cillum adipisicing deserunt sint velit ad velit consequat officia exercitation dolor labore. In eiusmod Lorem non Lorem labore voluptate esse officia. Velit tempor aliquip sint non laborum nulla velit consequat irure veniam labore veniam in esse. Magna et cillum eiusmod.",
+                "membersNames": [
+                    {
+                        "vorname": "Phillip",
+                        "nachname": "Hahn"
+                    },
+                    {
+                        "vorname": "Florian",
+                        "nachname": "Österreicher"
+                    },
+                    {
+                        "vorname": "Nikola",
+                        "nachname": "Stjepanovic"
+                    }
+                ],
+                "projId": "20183CHIT0"
+            },
+            {
+                "title": "Tilliard Tisch",
+                "points": [
+                    15,
+                    14,
+                    6,
+                    30,
+                    19,
+                    17
+                ],
+                "icon": "ic_question_answer_black_48dp",
+                "description": "Ex occaecat elit non magna voluptate consequat et culpa sint id veniam proident ut. Lorem sit fugiat Lorem esse. Fugiat sit in ad adipisicing officia sit proident commodo pariatur ut nulla proident elit do. Anim ea sit enim ex consectetur pariatur sint. Incididunt ullamco cupidatat non qui pariatur sint minim sint duis in.",
+                "membersNames": [
+                    {
+                        "vorname": "Maximilian Luca",
+                        "nachname": "Öztürk"
+                    },
+                    {
+                        "vorname": "Enmanuel",
+                        "nachname": "Tavakoli"
+                    },
+                    {
+                        "vorname": "Tarik",
+                        "nachname": "Stankovic"
+                    }
+                ],
+                "projId": "20183CHIT1"
+            },
+            {
+                "title": "eye see smart",
+                "points": [
+                    23,
+                    26,
+                    31,
+                    13,
+                    19,
+                    30
+                ],
+                "icon": "ic_wallpaper_black_48dp",
+                "description": "Officia proident in labore nostrud consectetur nisi proident irure dolor quis. Reprehenderit aliquip Lorem tempor consectetur duis occaecat. Ut laboris incididunt tempor excepteur minim aute aute id velit dolore reprehenderit officia sunt minim.",
+                "membersNames": [
+                    {
+                        "vorname": "Rudolf",
+                        "nachname": "Pichler"
+                    },
+                    {
+                        "vorname": "Stefan",
+                        "nachname": "Mehmed"
+                    },
+                    {
+                        "vorname": "Thomas",
+                        "nachname": "Jargalsaikhan"
+                    }
+                ],
+                "projId": "20183CHIT2"
+            },
+            {
+                "title": "Lit Lamp",
+                "points": [
+                    11,
+                    15,
+                    40,
+                    5,
+                    40,
+                    23
+                ],
+                "icon": "ic_wb_incandescent_black_48dp",
+                "description": "Duis officia et consectetur veniam quis adipisicing veniam incididunt. Sint ex dolor duis nostrud elit id in do. Pariatur aliquip occaecat et est incididunt laboris qui sunt sunt. Cillum aute elit nisi duis qui exercitation cupidatat minim culpa reprehenderit sit.",
+                "membersNames": [
+                    {
+                        "vorname": "Fares",
+                        "nachname": "Gruber"
+                    },
+                    {
+                        "vorname": "Josip",
+                        "nachname": "Peric"
+                    }
+                ],
+                "projId": "20183CHIT3"
+            },
+            {
+                "title": "Tree Can",
+                "points": [
+                    42,
+                    11,
+                    9,
+                    26,
+                    29,
+                    17
+                ],
+                "icon": "ic_nature_people_black_48dp",
+                "description": "Nulla et sit voluptate. Et qui aliquip reprehenderit fugiat occaecat in commodo nulla reprehenderit aliqua. Id deserunt in eiusmod eu amet. Quis ipsum esse eu.",
+                "membersNames": [
+                    {
+                        "vorname": "Stefan",
+                        "nachname": "Ciric"
+                    },
+                    {
+                        "vorname": "Belal",
+                        "nachname": "Niazi"
+                    },
+                    {
+                        "vorname": "Richard",
+                        "nachname": "Qehaja"
+                    }
+                ],
+                "projId": "20183CHIT4"
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "grade": "5ABHITM",
+        "criteria": [
+            {
+                "id": 42,
+                "short": "KP",
+                "long": "Komplex",
+                "weight": 10
+            },
+            {
+                "id": 37,
+                "short": "TE",
+                "long": "Technisch",
+                "weight": 50
+            },
+            {
+                "id": 17,
+                "short": "IN",
+                "long": "Innovativ",
+                "weight": 90
+            },
+            {
+                "id": 80,
+                "short": "DO",
+                "long": "Dokumentation",
+                "weight": 35
+            },
+            {
+                "id": 13,
+                "short": "RE",
+                "long": "Relevant",
+                "weight": 60
+            },
+            {
+                "id": 41,
+                "short": "KS",
+                "long": "Kosten",
+                "weight": 10
+            },
+            {
+                "id": 39,
+                "short": "GG",
+                "long": "Gruppengröße",
+                "weight": 42
+            }
+        ],
+        "judges": [
+            {
+                "short": "RB",
+                "long": "Prof. Baumgartner",
+                "since": 2003
+            },
+            {
+                "short": "TP",
+                "long": "Prof. Psik",
+                "since": 2018
+            },
+            {
+                "short": "MS",
+                "long": "Prof. Suppan",
+                "since": 2014
+            },
+            {
+                "short": "PZ",
+                "long": "Prof. Zottele",
+                "since": 2005
+            }
+        ],
+        "projects": [
+            {
+                "title": "Escape The Reality",
+                "points": [
+                    16,
+                    31,
+                    31,
+                    34
+                ],
+                "icon": "ic_rv_hookup_black_48dp",
+                "description": "Duis consequat esse esse ut irure nostrud adipisicing adipisicing deserunt aliquip eu esse esse ut irure. Dolore deserunt non irure qui Lorem ullamco enim ea adipisicing eiusmod eu exercitation. In ipsum consequat sint sunt incididunt veniam culpa sint excepteur adipisicing non commodo labore laborum ut. Dolore mollit exercitation voluptate voluptate duis dolor id enim.",
+                "membersNames": [
+                    {
+                        "vorname": "Manuel",
+                        "nachname": "Paunovic"
+                    },
+                    {
+                        "vorname": "Ali",
+                        "nachname": "Hauser"
+                    }
+                ],
+                "projId": "20185ABHITM0"
+            },
+            {
+                "title": "Be The Change",
+                "points": [
+                    36,
+                    46,
+                    20,
+                    14
+                ],
+                "icon": "ic_transform_black_48dp",
+                "description": "Aute fugiat consequat voluptate aliqua nulla esse adipisicing tempor sunt minim deserunt elit pariatur minim minim. Aute ea occaecat laboris excepteur aliquip irure nisi enim sint magna aliqua. Duis labore amet sunt proident Lorem.",
+                "membersNames": [
+                    {
+                        "vorname": "Ismail",
+                        "nachname": "Krottendorfer"
+                    },
+                    {
+                        "vorname": "Stephan",
+                        "nachname": "Ünal"
+                    },
+                    {
+                        "vorname": "Kevin",
+                        "nachname": "Szkop"
+                    }
+                ],
+                "projId": "20185ABHITM1"
+            },
+            {
+                "title": "Heroes Never Die",
+                "points": [
+                    14,
+                    35,
+                    43,
+                    10
+                ],
+                "icon": "ic_supervisor_account_black_48dp",
+                "description": "Labore dolore incididunt magna aliquip laborum ullamco ullamco duis mollit. Proident dolor nostrud irure aliquip reprehenderit irure veniam occaecat velit. Sint cupidatat pariatur aliqua sit amet aliqua nostrud consequat.",
+                "membersNames": [
+                    {
+                        "vorname": "Dimitrije",
+                        "nachname": "Lutz"
+                    },
+                    {
+                        "vorname": "Naomi-Saphira",
+                        "nachname": "Klaffl"
+                    }
+                ],
+                "projId": "20185ABHITM2"
+            },
+            {
+                "title": "Save The World",
+                "points": [
+                    24,
+                    24,
+                    28,
+                    8
+                ],
+                "icon": "ic_spa_black_48dp",
+                "description": "Fugiat sint dolor labore quis nulla commodo dolore enim cillum mollit occaecat consequat Lorem ullamco magna. Proident laborum aliqua incididunt laboris. Sit reprehenderit non et reprehenderit voluptate ipsum.",
+                "membersNames": [
+                    {
+                        "vorname": "Markus",
+                        "nachname": "Petronic"
+                    },
+                    {
+                        "vorname": "Andre",
+                        "nachname": "Moryson"
+                    }
+                ],
+                "projId": "20185ABHITM3"
+            },
+            {
+                "title": "Pixel Music",
+                "points": [
+                    19,
+                    39,
+                    19,
+                    35
+                ],
+                "icon": "ic_queue_music_black_48dp",
+                "description": "Nisi duis excepteur labore enim. Anim in amet ex anim culpa proident eu magna officia fugiat consectetur excepteur nulla. Et nostrud sint velit ad culpa commodo.",
+                "membersNames": [
+                    {
+                        "vorname": "Maximilian",
+                        "nachname": "Sidhu"
+                    },
+                    {
+                        "vorname": "Katarina",
+                        "nachname": "Gökpinar"
+                    }
+                ],
+                "projId": "20185ABHITM4"
+            },
+            {
+                "title": "Attenzione",
+                "points": [
+                    35,
+                    24,
+                    32,
+                    8
+                ],
+                "icon": "ic_new_releases_black_48dp",
+                "description": "Quis et ex do consectetur elit et consectetur exercitation sint incididunt sint est amet. Nostrud occaecat eu ea deserunt non in nisi officia. Commodo aliqua ad enim voluptate aliquip nisi consequat exercitation culpa labore ipsum id et ullamco mollit. Aliqua ad ipsum cillum ea aliquip adipisicing. Est elit Lorem ut qui tempor id labore esse eu veniam ut exercitation.",
+                "membersNames": [
+                    {
+                        "vorname": "Christoph",
+                        "nachname": "Stevic"
+                    },
+                    {
+                        "vorname": "Yusuf",
+                        "nachname": "Seidl"
+                    },
+                    {
+                        "vorname": "Alexander",
+                        "nachname": "Katic Stekic"
+                    }
+                ],
+                "projId": "20185ABHITM5"
+            },
+            {
+                "title": "Split",
+                "points": [
+                    26,
+                    40,
+                    15,
+                    37
+                ],
+                "icon": "ic_wrap_text_black_36dp",
+                "description": "Anim tempor cillum ipsum ullamco excepteur ut dolor ad culpa Lorem minim occaecat dolore officia. Tempor ad veniam fugiat sunt nulla. Minim nulla cillum fugiat dolore nisi in.",
+                "membersNames": [
+                    {
+                        "vorname": "Marian",
+                        "nachname": "Diewald"
+                    },
+                    {
+                        "vorname": "Djordje",
+                        "nachname": "Niazi"
+                    }
+                ],
+                "projId": "20185ABHITM6"
+            },
+            {
+                "title": "Break The Stereotypes",
+                "points": [
+                    49,
+                    28,
+                    28,
+                    49
+                ],
+                "icon": "ic_widgets_black_48dp",
+                "description": "Laboris quis nostrud amet est pariatur reprehenderit labore Lorem eiusmod ullamco officia aliquip eu sit. Proident sit eiusmod nulla eiusmod minim sit excepteur adipisicing. Voluptate incididunt qui sit sunt adipisicing officia sunt do ipsum. Id et est magna mollit voluptate magna est consectetur ex tempor ut.",
+                "membersNames": [
+                    {
+                        "vorname": "Yusuf",
+                        "nachname": "Panic"
+                    },
+                    {
+                        "vorname": "Bili",
+                        "nachname": "Chiu"
+                    },
+                    {
+                        "vorname": "Jakob",
+                        "nachname": "Gazic"
+                    }
+                ],
+                "projId": "20185ABHITM7"
+            }
+        ]
+    }
+]
